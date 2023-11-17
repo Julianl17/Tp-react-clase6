@@ -1,0 +1,9 @@
+.container {
+    border-radius: 10px;
+    padding: 25px 20px;
+    background-color: #ECF0F1;
+    box-sizing: border-box;
+}
+.container input{
+    width: 300px;
+}
